@@ -13,7 +13,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 Það var nú ekki mikkið mál ad setja up ubuntu, en það var aðeins meira vandamál ad fá vbox til ad hleypa netinu i gegn þar sem ég er vanur að nota hyper-v en ekki vbox en þetta virkaði fyrir rest.
 
-![Image] https://raw.github.com/Monkeym0n/INTOmarkdown/64133c20f416e4c75121ed872f7efc4c698eaf50/mynd.png?raw=true)
+![Image] (https://raw.github.com/Monkeym0n/INTOmarkdown/64133c20f416e4c75121ed872f7efc4c698eaf50/mynd.png?raw=true)
 
 
 ## 2. Uppsetning á vim && git
