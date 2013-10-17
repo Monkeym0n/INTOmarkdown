@@ -13,7 +13,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 Það var nú ekki mikkið mál ad setja up ubuntu, en það var aðeins meira vandamál ad fá vbox til ad hleypa netinu i gegn þar sem ég er vanur að nota hyper-v en ekki vbox en þetta virkaði fyrir rest.
 
-![ScreenShot](/screenshots/ubuntustartscreen.png)
+
 
 ## 2. Uppsetning á vim && git
 
@@ -27,7 +27,7 @@ Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópme�
 
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
-Ég byrjaði á þvi ad prufa github fyrir windows til ad skoda þetta i umhverfi sem eg þekki, að því loknu for eg eftir fyrirmælum og gerdi þetta í gegnum ubuntu og þar lendi eg i sma klandri med directorys og að tengjast git með shh en eg leysti það með þessu "ssh -vT git@github.com" og lass hvaða directory væri verið að leita í og lagaði það. Þar sem eg er    
+Ég byrjaði á þvi ad prufa github fyrir windows til ad skoda þetta i umhverfi sem eg þekki, að því loknu for eg eftir fyrirmælum og gerdi þetta í gegnum ubuntu og þar lendi eg i sma klandri med directorys og að tengjast git með shh en eg leysti það með þessu "ssh -vT git@github.com" og lass hvaða directory væri verið að leita í og lagaði það.
 
 <https://github.com/Monkeym0n/INTOPrufa>
 
