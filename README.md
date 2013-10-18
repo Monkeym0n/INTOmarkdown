@@ -45,3 +45,5 @@ VLC	               GPL => LGPL.     		                http://www.videolan.org/vl
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+
+Var smá vessen að fá myndina inn og virka en annars allt í góðu.
